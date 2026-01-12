@@ -1,7 +1,7 @@
 {
-  "version": "1.0.6",
-  "versionCode": 6,
-  "minVersionCode": 6,
-  "apkUrl": "https://github.com/roamiq/roamiq-releases/releases/download/v1.0.6/roamiq-wallpanel-1.0.6.apk",
+  "version": "1.0.8",
+  "versionCode": 8,
+  "minVersionCode": 8,
+  "apkUrl": "https://github.com/roamiq/roamiq-releases/releases/download/v1.0.8/roamiq-wallpanel-1.0.8.apk",
   "releaseNotes": "Patch release"
 }
