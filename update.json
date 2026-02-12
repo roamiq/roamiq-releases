@@ -1,7 +1,1 @@
-{
-  "version": "1.0.8",
-  "versionCode": 8,
-  "minVersionCode": 8,
-  "apkUrl": "https://github.com/roamiq/roamiq-releases/releases/download/v1.0.8/roamiq-wallpanel-1.0.8.apk",
-  "releaseNotes": "Patch release"
-}
+{"apkUrl":"https://github.com/roamiq/roamiq-releases/releases/download/v2.0.0/roamiq-panel-2.0.0.apk","releaseNotes":"Native Kotlin rewrite: timezone dropdown, MQTT topic rename (wallpanel-\u003epanel), migration fix","versionCode":100,"version":"2.0.0","minVersionCode":1}
