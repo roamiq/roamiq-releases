@@ -1,1 +1,1 @@
-{"apkUrl":"https://github.com/roamiq/roamiq-releases/releases/download/v2.0.0/roamiq-panel-2.0.0.apk","releaseNotes":"Native Kotlin rewrite: timezone dropdown, MQTT topic rename (wallpanel-\u003epanel), migration fix","versionCode":100,"version":"2.0.0","minVersionCode":1}
+{"apkUrl":"https://github.com/roamiq/roamiq-releases/releases/download/v2.0.0/roamiq-panel-2.0.0.apk","releaseNotes":"Native Kotlin rewrite","versionCode":100,"version":"2.0.0","minVersionCode":1}
